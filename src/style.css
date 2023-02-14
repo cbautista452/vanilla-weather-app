@@ -72,7 +72,8 @@ li:first-letter {
 .weather-temperature .active:hover {
   text-decoration: none;
 }
-.weather-forescast {
+
+.weather-forecast {
   margin-top: 20px;
   text-align: center;
   color: #000;
@@ -87,6 +88,6 @@ li:first-letter {
   opacity: 0.5;
 }
 
-.weather-forecast-temperature {
+.weather-forecast-temperatures {
   font-size: 13px;
 }
